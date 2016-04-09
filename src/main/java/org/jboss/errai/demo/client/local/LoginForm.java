@@ -16,6 +16,7 @@ import org.jboss.errai.ui.shared.api.annotations.Templated;
  * @author ondra
  */
 
+//toto je hlavni trida, kde se loguje do CRM
 @EntryPoint
 @Page(role = DefaultPage.class)
 @Templated("LoginForm.html#formular")
