@@ -9,7 +9,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="A simple Errai/GWT CRUD Application.">
 
-  <title>Errai Tutorial</title>
+  <title>elBooker CRM</title>
 
   <!-- Bootstrap Core CSS -->
   <link href="css/bootstrap.min.css" rel="stylesheet">
